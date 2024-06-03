@@ -2,3 +2,5 @@ Flask~=3.0.3
 aiohttp~=3.9.5
 aiogram~=3.6.0
 SQLAlchemy~=2.0.30
+mysql
+mysql-connector-python
